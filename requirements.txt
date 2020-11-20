@@ -1,0 +1,8 @@
+Webpack (imports and exports)
+    Babel
+    Scss
+    2 Modes
+    -Dev
+    Dev server, SourceMaps, not Minified js and css,
+    -Prod
+    Minified code
